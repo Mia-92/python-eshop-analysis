@@ -1,3 +1,9 @@
+# Motivace projektu
+
+Projekt jsem vytvořila jako součást svého samostudia s cílem rekvalifikace do oblasti datové analytiky.
+Cílem bylo procvičit Python, SQL, návrh databáze a analytické myšlení na realistickém datasetu simulujícím e‑shop.
+
+
 # 📊 Analýza prodejů e-shopu (Python & SQL)
 
 Tento projekt se zaměřuje na zpracování surových exportů z e-shopového systému, jejich čištění a následnou analýzu pomocí databáze **SQLite**. Cílem je transformovat nepřehledná data do smysluplných byznysových statistik.
